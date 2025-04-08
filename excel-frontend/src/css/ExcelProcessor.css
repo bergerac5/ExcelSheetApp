@@ -1,0 +1,32 @@
+.excel-processor {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+input,
+button {
+    margin: 10px 0;
+    padding: 8px 12px;
+}
+
+.error {
+    color: red;
+    margin: 10px 0;
+}
+
+.json-result {
+    margin-top: 20px;
+    background: #f5f5f5;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
